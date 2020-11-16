@@ -78,3 +78,6 @@ const newItems = [1, 2, 3, 4, 5, "six"]
 const includesTwo = newItems.includes(2)
 console.log(includesTwo)
 // * checks to see if the array being passed includes the argument, returns true if yes
+
+
+// Thank you to: https://www.youtube.com/watch?v=R8rmfD9Y5-c
