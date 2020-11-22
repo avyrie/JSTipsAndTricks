@@ -1,3 +1,5 @@
+// *** JavaScript Array Methods ***
+
 const items = [
     {name: 'Bike', price: 100},
     {name: 'Tv', price: 200},

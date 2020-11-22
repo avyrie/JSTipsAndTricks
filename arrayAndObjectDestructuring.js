@@ -1,4 +1,4 @@
-// *** Destructureing arrays ***
+// *** Destructuring arrays ***
 
 const words = ['This', 'That', 'The Other', 'Those', 'Them', 'There']
 const alphabet = ['A', 'B', 'C', 'D', 'E', 'F']
