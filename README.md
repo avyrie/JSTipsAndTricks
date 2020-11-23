@@ -6,6 +6,6 @@
 This repo contains files that include useful information for when you are working in JavaScript. I will update this when I can with various tips and tricks tha I like to keep on hand. If you have anything to contribute that you think would be good for (especiall junior) software developers to know/have on hand, please message me or submit a pull request.
 
 ## Table of Contents
-- arrMethods.js - eight JavaScript array methods and how to use them
+- arrMethods.js - multiple JavaScript array methods and how to use them
 - destructuringArrsAndObj.js - how to use destructuring methods on objects and arrays
-- objMethods.js  - JavaScript object methods and how to use them
+- objMethods.js  - multiple JavaScript object methods and how to use them

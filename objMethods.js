@@ -1,6 +1,6 @@
 // *** JavaScript Object Methods ***
 
-let instructor = {
+const instructor = {
     fName: 'Kelly',
     isInstructor: true,
     favNums: [1, 2, 3, 4]
@@ -32,8 +32,11 @@ const me = Object.create(instructor)
 console.log(me.fName)
 console.log(me.isInstructor)
 me.fName = 'Ally';
+me.lName = 'Pittman';
+console.log(instructor.lName)
 me.isInstructor = false;
 console.log(me.favNums)
 console.log(me.fName)
+console.log(me.lName)
 console.log(me.isInstructor)
 // creates an object by using a previously existing object as a template
